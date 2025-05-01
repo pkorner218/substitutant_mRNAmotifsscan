@@ -1,6 +1,5 @@
 # substitutant_mRNAmotifsscan
-Take a library of substitant peptides from mass spectronomy and scan for mRNA motifs around the substitution site
-
+Take a library of substitant peptides from mass spectronomy and scan for mRNA motifs (differential nucleotide or amino acid frequencies) around the substitution site.
 
 ## Summary
 This small pipeline was created to provide a toolset that allows the analysis of nucleotide and amino acid frequencies surrounding substitutant sites detected in mass spectronomy data.
